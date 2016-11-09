@@ -1,0 +1,55 @@
+nav{
+	
+}
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+}
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 10px;
+    text-decoration: none;
+}
+/*img{*/
+	/*width:280;*/
+	/*height:95;*/
+/*}*/
+.google{
+	margin:150px auto;
+	text-align:center;
+}
+.center{
+}
+	
+input{
+	width:60%;
+	height:30px;
+	
+}
+button{
+	width:220px;
+	height:30px;
+}
+a{
+	text-decoration: none !important;
+}
+footer{
+	background-color: silver;
+	margin-top:150%;
+}
+.guas{
+	float:right;
+}
+button{
+	background-color:#DCDCDC;
+	color:grey;
+	border:0px solid;
+}

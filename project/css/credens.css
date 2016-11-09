@@ -1,0 +1,173 @@
+body{
+	background-color: silver;
+}
+nav{
+	background-color: white;
+	height:60px;
+	display:block;
+	padding: 10px;
+}
+nav li{
+	text-align:center;
+	margin-top: 5px;
+	float:right;
+}
+nav ul{
+	list-style-type: none;
+	/*text-align:right;*/
+	margin:0;
+	padding: 0;
+}
+nav li a{
+	display:block;
+	color:black;
+	padding:14px 16px;
+	text-decoration: none;
+	/*text-align:center;*/
+	margin-top: -40px;
+}
+nav li:First-child{
+	margin-right: 100px
+}
+nav ul li a:active{
+	text-decoration: underline;
+	color:red;
+}
+.credens{
+	padding-right: 70px
+}
+
+.pics{
+	background-image: url("../img/imaf1.jpg");
+	background-size: cover;
+	height:400px;
+	margin-top: -41px;
+}
+.right{
+width: 48%
+}
+.left{
+width: 47%;
+float:right;
+}
+.arrow1{
+	width: 15px;
+	height: 15px;
+	background-color: red;
+}
+.dart{
+	width:300px;
+	height:300px;
+	opacity: 0.6;
+	margin-top: -240px;
+}
+.fontsize{
+	font-size: 60px;
+	padding-left: 40px
+}
+.para{
+	padding-left: 40px
+}
+.button{
+	height:30px;
+	background-color: red;
+	color:white;
+	border:none;
+	margin-left: 40px
+
+}
+.background{
+	background-color: white;
+	margin-top: -22px
+}
+.clients{
+	text-align: center;
+}
+.inline{
+	width: 100%;
+	display:inline-block;
+	text-align: center;
+	margin-bottom: 20px
+}
+.cleft{
+	width:15%;
+	display: inline-block;
+	margin-left: 80px;
+}
+.cmiddle{
+	width:15%;
+	display: inline-block;
+	margin-left: 80px;
+}
+.cmiddle1{
+	width:15%;
+	display: inline-block;
+	margin-left: 80px;
+}
+.cright{
+	width:15%;
+	display: inline-block;
+	margin-left: 80px;
+}
+.online{
+	width:20px;
+	height: 20px;
+}
+a{
+	text-decoration: none;
+}
+.hover:hover{
+	background-color: red;
+	color:white;
+	padding:10px 30px;
+}
+#arrow{
+	width:15px;
+	height:15px;
+}
+.whole{
+	width: 100%;
+	display:inline-block;
+	text-align: center;
+}
+.all div{
+	float: left;
+	display: inline-block;
+	width: 35%
+}
+
+.Lright{
+	width:15%;
+	display: inline-block;
+}
+.list1{
+	list-style-type: none;
+	padding-left: 0px
+	
+	
+}
+.listg{
+	margin-top: 5px;
+}
+.list2{
+	list-style-type:square;
+}
+.list3{
+	padding-right: 0px
+}
+.hover1:hover{
+	background-color: red;
+	padding:10px 30px;
+}
+.btn{
+	background-color: red;
+	color:white;
+	border:none;
+}
+.hover2:hover{
+	color:red;
+}
+#img1{
+	width: 250px;
+	height:450px;
+}
